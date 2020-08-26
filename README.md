@@ -1,4 +1,4 @@
-
+# undefined
   # Unit 09 Node.js and ES6+ Homework: Good README Generator
   # Table of Contents
 
@@ -25,28 +25,28 @@
 
 
   ## Title :
-  asc
+  angela strayhorn consulting
   
   ## Username :
-   angela
+   Angelask 
   ## Email :
-  ### angela@angela
+  ### angelats@outlook.com
   ## Project Name :
-  ###  nodeme
+  ###  Unit 09 Node.js and ES6 homework
   ## Description :
-  ###  desc
+  ###  This is a project that makes it easy for the user to generate a READ.md file by inputting a few short answers to questions.
   ## License :
-  ###  mit
+  ###  MIT
   ## Installation :
-  ###  node
+  ###  It is installed using the inquirer package
   ## Tests :
-  ###  none
+  ###  both red path and green path testing was done using node and the fine name
   ## Usage :
-  ###  readme
+  ###  user should follow prompts with a series of questions, and me at my email if there are any additional questions
   ## Contribution :
-  ### yes
+  ### code is open source you can add or change as needed
 
 
-  [title](https://www.example.com)
+  [github](https://www.example.com)
   ![alt text](image.jpg)
 
