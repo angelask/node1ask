@@ -1,12 +1,4 @@
-
-
-// function to generate markdown for README
-
-//ES6 temporal literals uses backticks
-
-
-function generateMarkdown(data) {
-  return `# ${data.title}
+# undefined
   # Unit 09 Node.js and ES6+ Homework: Good README Generator
   # Table of Contents
 
@@ -32,32 +24,28 @@ function generateMarkdown(data) {
   * [Questions](#Questions)
 
   ## Title :
-  ${data.Title}
+  angela
   
   ## Username :
-   ${data.Username}
+   angelask
   ## Email :
-  ### ${data.Email}
+  ### angela@outlook.com
   ## Project Name :
-  ###  ${data.Name}
+  ###  myNode
   ## Description :
-  ###  ${data.Description}
+  ###  creating a readme file
   ## License :
-  ###  ${data.License}
+  ###  iso
   ## Installation :
-  ###  ${data.Installation}
+  ###  need to know about npm
   ## Tests :
-  ###  ${data.Tests}
+  ###  no test needed
   ## Usage :
-  ###  ${data.Usage}
+  ###  what we learned in bootcamp
   ## Contribution :
-  ### ${data.Contribution}
+  ### all infomation is there
 
 
  
 
 
-`;
-}
-
-module.exports = generateMarkdown;
